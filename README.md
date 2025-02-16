@@ -10,6 +10,10 @@ A collection of various Python data analysis projects.
 
 ### 2. Capital Bikeshare Data Projects
 
+#### Overview
+
+This project analyzes Capital Bikeshare data to understand bike and e-bike availability, station utilization rates, and other key metrics. The data was collected, stored in a MySQL database, and connected to Power BI for visualization.
+
 #### a) Bike Station Information
 - **Description:** Retrieves static station details from the Capital Bikeshare API and stores them in a MySQL database.
 - **Key Features:**
