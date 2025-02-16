@@ -24,6 +24,12 @@ A collection of various Python data analysis projects.
   - Helps stakeholders make data-driven decisions for service optimization.
 - **Directory:** `/capital_bikeshare_analysis/`
 
+## Capital Bikeshare Dashboard  
+
+Here is a preview of the Power BI dashboard:  
+
+![Capital Bikeshare Dashboard](CapitalBikeshareAnalysis3.jpg)
+
 [Future projects will be listed here]
 
 
